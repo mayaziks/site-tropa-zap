@@ -1,0 +1,23 @@
+body{
+    background-color: green;
+    
+}
+/* imagens do cabecario */
+header {
+    img {
+        max-width: 300px;
+        height: auto;
+    }
+
+}
+/* mayaziks clips */
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+img {
+    max-width: 300px;
+    height: auto;
+}

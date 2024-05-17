@@ -1,5 +1,7 @@
 body{
-    background-color: green;
+    background-image: url("img/tropa_do_zap_.png");
+    background-repeat: no-repeat;   
+    background-size: 300%;
     
 }
 /* imagens do cabecario */
@@ -20,4 +22,10 @@ header {
 img {
     max-width: 300px;
     height: auto;
+}
+
+.cadastro {
+    font-family: 'Arial', Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
